@@ -104,9 +104,17 @@ h1 {
 }
 
 .submit-button-wrapper,
-.question-count {
-    margin-top: 2rem;
+.question-count,
+.answer-feedback {
     text-align: center;
+}
+
+.submit-button-wrapper {
+    margin-top: 3rem;
+}
+
+.question-count {
+    margin-top: 1rem;
 }
 
 
