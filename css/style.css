@@ -124,7 +124,6 @@ h1 {
 
 .social {
     padding: 0.5rem 0;
-    text-align: center;
 }
 
 .social .content {
@@ -136,12 +135,6 @@ h1 {
     border: 0;
     border-top: 1px dotted #C0C0C0;
     padding-bottom: 0.5rem;
-    text-align: center;
-}
-
-.social h4 {
-    font-size: 1.5rem;
-    color: white;
 }
 
 .social .icons > li {
@@ -156,19 +149,8 @@ h1 {
     width: auto;
 }
 
-footer a {
-    font-weight: bold;
-    text-decoration: none;
-    color: #F77A52;
-}
-
-footer a:hover {
-    color: #2F343B;
-}
-
 .social .copy {
     font-size: 1rem;
-    font-weight: 300;
     color: #838994;
     margin-top: 1rem;
 }
